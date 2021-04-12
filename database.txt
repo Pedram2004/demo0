@@ -1,3 +1,6 @@
 #this file contains lots of data
 pedram 2004
 google 1992
+hello 434
+facebook 4234
+whatsapp 423536
